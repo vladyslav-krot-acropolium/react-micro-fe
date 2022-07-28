@@ -1,0 +1,21 @@
+{
+  "name": "@local/micro-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@local/sentry": "*",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "peerDependencies": {
+    "@local/sentry": "*",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "keywords": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@local/material-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "peerDependencies": {
+    "@local/sentry": "*",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
